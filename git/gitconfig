@@ -1,8 +1,8 @@
 [user]
-	name = miguelpinto98
-	email = mcpinto98@gmail.com
+	name = ricardobranco	
+	email = 28.ricardobranco@gmail.com
 [core]
-	excludesfile = /Users/miguelpinto/.gitignore_global
+	excludesfile = /Users/ricardobranco/.gitignore_global
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path =

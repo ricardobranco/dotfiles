@@ -1,5 +1,5 @@
 #Path to your oh-my-zsh installation.
-#export ZSH=/Users/miguelpinto/.oh-my-zsh
+#export ZSH=/Users/ricardobranco/.oh-my-zsh
 #source $ZSH/oh-my-zsh.sh
 
 source /usr/local/Cellar/antigen/1.2.1/share/antigen/antigen.zsh
