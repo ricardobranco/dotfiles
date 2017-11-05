@@ -20,7 +20,6 @@ apps=(
     slack
     spectacle
     spotify
-    sublime-text
     the-unarchiver
     transmission
     visual-studio-code

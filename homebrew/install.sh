@@ -17,7 +17,7 @@ apps=(
 	jenv
 	openssl
 	rbenv
-        wget
+    wget
 )
 
 #
