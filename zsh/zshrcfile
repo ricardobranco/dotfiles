@@ -33,7 +33,6 @@ antigen apply
 #Manage java ativate versions
 export PATH="$HOME/.jenv/bin:$PATH"
 eval "$(jenv init -)"
-
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/ricardobranco/Library/Android/sdk/platform-tools:/Users/ricardobranco/Library/Android/sdk/tools:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
-
+# Add Visual Studio Code (code)
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 fi
